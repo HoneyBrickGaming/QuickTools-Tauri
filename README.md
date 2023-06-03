@@ -1,5 +1,6 @@
 # Portable Application Installer and Game Runner
 
+**This program is still in development!**
 This program simplifies the installation and execution of applications and games in a portable mode on both Windows and Linux operating systems. With its user-friendly interface and powerful features, you can easily manage your software without the need for traditional installation procedures.
 
 ## Key Features
