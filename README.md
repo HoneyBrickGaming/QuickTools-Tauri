@@ -14,7 +14,7 @@ This program simplifies the installation and execution of applications and games
 
 - **User-Friendly Interface**: Enjoy a straightforward and intuitive interface that makes it easy to navigate and manage your installed applications and games. No technical expertise is required to use this tool effectively.
 
-- **Software Management**: Organize, update, and remove applications and games effortlessly through a centralized management system. Stay in control of your software collection, ensuring you always have the latest versions and optimal performance.
+- **Software Management**: Organize, update, remove applications and games effortlessly through a centralized management system. Stay in control of your software collection, ensuring you always have the latest versions and optimal performance.
 
 - **Community-Driven**: Benefit from an active and supportive community that shares insights, troubleshoots issues, and suggests new features. Our program continues to evolve and improve based on user feedback and needs.
 
