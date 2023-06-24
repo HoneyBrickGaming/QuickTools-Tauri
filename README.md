@@ -1,4 +1,4 @@
-# Portable Application Installer and Game Launcher
+# Portable Applications, Installer and Game Launcher
 
 **This program is still in development!**
 
